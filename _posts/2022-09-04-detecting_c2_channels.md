@@ -24,32 +24,43 @@ Milliseconds were removed from timestamps and duplicated rows were removed.
 ### Cobalt Strike HTTP Beacon (Sleep 10 99)
 
 Amount of packets: 4820
+
 Entropy value: 0.994
-Diagram
+
+![Beacon Entropy Diagram](https://raw.githubusercontent.com/jordanjoewatson/jordanjoewatson.github.io/main/images/detecting_c2_channels/beacon.png)
 
 ### YouTube 
 
 Amount of packets: 32
+
 Entropy value: 0.877
-Diagram
+
+![YouTube Entropy Diagram](https://raw.githubusercontent.com/jordanjoewatson/jordanjoewatson.github.io/main/images/detecting_c2_channels/youtube.png)
+
 
 ### Netflix
 
 Amount of packets: 186
+
 Entropy: 0.783
-Diagram
+
+![Netflix Entropy Diagram](https://raw.githubusercontent.com/jordanjoewatson/jordanjoewatson.github.io/main/images/detecting_c2_channels/netflix.png)
 
 ### Reddit
 
 Amount of packets: 558
+
 Entropy: 0.348
-Diagram
+
+![Reddit Entropy Diagram](https://raw.githubusercontent.com/jordanjoewatson/jordanjoewatson.github.io/main/images/detecting_c2_channels/reddit.png)
 
 ### RuneScape
 
 Amount of packets: 748
+
 Entropy: 0
-Diagram
+
+![RuneScape Entropy Diagram](https://raw.githubusercontent.com/jordanjoewatson/jordanjoewatson.github.io/main/images/detecting_c2_channels/runescape.png)
 
 ## Conclusion
 
