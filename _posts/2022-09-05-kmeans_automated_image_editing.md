@@ -10,8 +10,8 @@ The code for this is on my github at https://github.com/jordanjoewatson/kmeans-c
 
 The script uses KMeans clustering to modify the colour scheme of images as shown below.
 
-![Pepsi original](https://github.com/jordanjoewatson/jordanjoewatson.github.io/blob/main/images/kmeans_image_converter/pepsi.png)
-![Pepsi modified](https://raw.githubusercontent.com/jordanjoewatson.github.io/blob/main/images/kmeans_image_converter/output11.png)
+![Pepsi original](https://raw.githubusercontent.com/jordanjoewatson/jordanjoewatson.github.io/main/images/kmeans_image_converter/pepsi.png)
+![Pepsi modified](https://raw.githubusercontent.com/jordanjoewatson/jordanjoewatson.github.io/main/images/kmeans_image_converter/output11.png)
 
 ## Methodology
 
